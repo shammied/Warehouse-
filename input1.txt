@@ -1,0 +1,102 @@
+Order SES Green
+Order SEL Beige
+Picker Alice ready
+Order S White
+Order SE Blue
+Picker Bob ready
+Order SEL Red
+Order S Black
+Picker Alice pick 29
+Order S Blue
+Order SE White
+Order SEL Black
+Picker Bob pick 23
+Picker Alice pick 30
+Picker Bob pick 24
+Order SEL Beige
+Order SEL Beige
+Picker Bob pick 41
+Sequencer Sue ready
+Picker Bob pick 42
+Picker Alice pick 15
+Order SES Blue
+Picker Bob pick 33
+Picker Alice pick 16
+Picker Bob pick 34
+Order S White
+Picker Bob pick 3
+Picker Alice pick 1
+Picker Bob pick 4
+Order SEL Green
+Picker Bob to marshalling
+Sequencer Sue sequence
+Picker Bob ready
+Sequencer Sue sequence
+Picker Alice pick 2
+Sequencer Sue sequence
+Picker Alice pick 35
+Picker Bob pick 23
+Sequencer Sue sequence
+Order SES Blue
+Sequencer Sue sequence
+Picker Alice pick 36
+Order SES Red
+Sequencer Sue sequence
+Picker Alice to marshalling
+Sequencer Sue sequence
+Loader Bill ready
+Sequencer Sue sequence
+Sequencer Sue to loading
+Sequencer Sue ready
+Sequencer Sue sequence
+Picker Bob pick 24
+Sequencer Sue sequence
+Picker Alice ready
+Sequencer Sue sequence
+Picker Bob pick 41
+Sequencer Sue sequence
+Picker Bob pick 42
+Sequencer Sue sequence
+Picker Bob pick 33
+Sequencer Sue sequence
+Sequencer Sue sequence
+Picker Alice pick 29
+Sequencer Sue sequence
+Sequencer Sue to loading
+Loader Bill scan pallets
+Order SEL Red
+Loader Bill scan pallets
+Picker Alice pick 30
+Loader Bill scan pallets
+Picker Alice pick 15
+Loader Bill scan pallets
+Sequencer Sue ready
+Loader Bill scan pallets
+Picker Bob pick 34
+Loader Bill scan pallets
+Picker Alice pick 16
+Loader Bill scan pallets
+Picker Bob pick 3
+Order S Blue
+Loader Bill scan pallets
+Picker Alice pick 1
+Loader Bill loads
+Loader Bill ready
+Loader Bill scan pallets
+Picker Bob pick 4
+Loader Bill scan pallets
+Loader Bill scan pallets
+Picker Alice pick 2
+Loader Bill scan pallets
+Picker Bob to marshalling
+Loader Bill scan pallets
+Order S White
+Loader Bill scan pallets
+Sequencer Sue sequences
+Loader Bill scan pallets
+Picker Alice pick 35
+Picker Bob ready
+Sequencer sue sequences
+Loader Bill scan pallets
+Sequencer Sue sequences
+Loader Bill loads

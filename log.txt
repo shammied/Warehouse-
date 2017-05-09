@@ -1,0 +1,352 @@
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order SE White
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: White SE
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order S Red
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: Red S
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice ready
+Mar 31, 2017 11:57:46 AM warehouse.Systems addPicker
+INFO: Alice ready for new picking request
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order SEL Black
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: Black SEL
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Bob ready
+Mar 31, 2017 11:57:46 AM warehouse.Systems addPicker
+INFO: Bob ready for new picking request
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order SES Red
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: Red SES
+Mar 31, 2017 11:57:46 AM warehouse.Systems givePickerPr
+INFO: Picking ID: 1 is with Alice
+Mar 31, 2017 11:57:46 AM warehouse.Systems createPickingRequest
+INFO: Picking request made
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order SE Green
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: Green SE
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 5
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 0, 0, 2]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 5
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Incorrect item. Put item back.
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 4
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 0, 0, 3]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 4
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order S Blue
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: Blue S
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 12
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 1, 1, 0]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 12
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Incorrect item. Put item back.
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice put back
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPutBack
+INFO: Alice has returned item 12
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order SES Beige
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: Beige SES
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 17
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 1, 1, 0]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 17
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order SEL Beige
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: Beige SEL
+Mar 31, 2017 11:57:46 AM warehouse.Systems givePickerPr
+INFO: Picking ID: 2 is with Bob
+Mar 31, 2017 11:57:46 AM warehouse.Systems createPickingRequest
+INFO: Picking request made
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 18
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 1, 1, 1]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 18
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 47
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [B, 1, 2, 2]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 47
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order S Black
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: Black S
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue ready
+Mar 31, 2017 11:57:46 AM warehouse.Systems addSequencer
+INFO: Sue ready to sequence a new picking request
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Bob pick 27
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob go to [B, 0, 0, 2]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob picked sku: 27
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 48
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [B, 1, 2, 3]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 48
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order SEL Green
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: Green SEL
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 21
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 1, 2, 0]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 21
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order SE Red
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: Red SE
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Order SE White
+Mar 31, 2017 11:57:46 AM warehouse.Systems addOrder
+INFO: New order: White SE
+Mar 31, 2017 11:57:46 AM warehouse.Systems createPickingRequest
+INFO: Picking request made
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Dan ready
+Mar 31, 2017 11:57:46 AM warehouse.Systems addPicker
+INFO: Dan ready for new picking request
+Mar 31, 2017 11:57:46 AM warehouse.Systems givePickerPr
+INFO: Picking ID: 3 is with Dan
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 22
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 1, 2, 1]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 22
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Bob pick 28
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob go to [B, 0, 0, 3]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob picked sku: 28
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Dan pick 41
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan go to [B, 1, 1, 0]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan picked sku: 41
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice to marshalling
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerMarshalling
+INFO: Alice go to marshalling.
+Mar 31, 2017 11:57:46 AM warehouse.Systems giveSequencerPr
+INFO: Picking ID: 1 is with Sue
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Bob pick 33
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob go to [B, 0, 2, 0]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob picked sku: 33
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Dan pick 42
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan go to [B, 1, 1, 1]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan picked sku: 42
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Bob pick 34
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob go to [B, 0, 2, 1]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob picked sku: 34
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue sequence
+Mar 31, 2017 11:57:46 AM warehouse.Systems workerScanItem
+INFO: Sue has scanned an invalid item.
+Mar 31, 2017 11:57:46 AM warehouse.Systems workerScanItem
+INFO: Picking ID: 1 has been sent back to be repicked.
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Dan pick 31
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan go to [B, 0, 1, 2]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan picked sku: 31
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Bob pick 13
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob go to [A, 1, 0, 0]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob picked sku: 13
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice ready
+Mar 31, 2017 11:57:46 AM warehouse.Systems addPicker
+INFO: Alice ready for new picking request
+Mar 31, 2017 11:57:46 AM warehouse.Systems givePickerPr
+INFO: Picking ID: 1 is with Alice
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Dan pick 32
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan go to [B, 0, 1, 3]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan picked sku: 32
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 3
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 0, 0, 2]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 3
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue ready
+Mar 31, 2017 11:57:46 AM warehouse.Systems addSequencer
+INFO: Sue ready to sequence a new picking request
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Bob pick 14
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob go to [A, 1, 0, 1]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob picked sku: 14
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 4
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 0, 0, 3]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 4
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Dan pick 19
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan go to [A, 1, 1, 2]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan picked sku: 19
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Bob pick 15
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob go to [A, 1, 0, 2]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob picked sku: 15
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 17
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 1, 1, 0]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 17
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Dan pick 20
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan go to [A, 1, 1, 3]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan picked sku: 20
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Bob pick 16
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob go to [A, 1, 0, 3]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Bob picked sku: 16
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 18
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 1, 1, 1]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 18
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Bob to marshalling
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerMarshalling
+INFO: Bob go to marshalling.
+Mar 31, 2017 11:57:46 AM warehouse.Systems giveSequencerPr
+INFO: Picking ID: 2 is with Sue
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Dan pick 3
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan go to [A, 0, 0, 2]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan picked sku: 3
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 47
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [B, 1, 2, 2]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 47
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue sequence
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Bob ready
+Mar 31, 2017 11:57:46 AM warehouse.Systems addPicker
+INFO: Bob ready for new picking request
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue sequence
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Dan pick 4
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan go to [A, 0, 0, 3]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Dan picked sku: 4
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue sequence
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Dan to marshalling
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerMarshalling
+INFO: Dan go to marshalling.
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue sequence
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 48
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [B, 1, 2, 3]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 48
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue sequence
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 21
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 1, 2, 0]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 21
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue sequence
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Dan ready
+Mar 31, 2017 11:57:46 AM warehouse.Systems addPicker
+INFO: Dan ready for new picking request
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue sequence
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice pick 22
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice go to [A, 1, 2, 1]
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerPick
+INFO: Alice picked sku: 22
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue sequence
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Picker Alice to marshalling
+Mar 31, 2017 11:57:46 AM warehouse.Systems pickerMarshalling
+INFO: Alice go to marshalling.
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue to loading
+Mar 31, 2017 11:57:46 AM warehouse.Systems sequencerToLoading
+INFO: Sue created pallets for Picking ID: 2
+Mar 31, 2017 11:57:46 AM warehouse.Simulation readEvents
+INFO: Input: Sequencer Sue ready
+Mar 31, 2017 11:57:46 AM warehouse.Systems addSequencer
+INFO: Sue ready to sequence a new picking request
+Mar 31, 2017 11:57:46 AM warehouse.Systems giveSequencerPr
+INFO: Picking ID: 1 is with Sue

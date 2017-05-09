@@ -1,0 +1,69 @@
+Order SE White
+Order S Red
+Picker Alice ready
+Order SEL Black
+Picker Bob ready
+Order SES Red
+Order SE Green
+Picker Alice pick 5
+Picker Alice pick 4
+Order S Blue
+Picker Alice pick 12
+Picker Alice put back
+Order SES Beige
+Picker Alice pick 17
+Order SEL Beige
+Picker Alice pick 18
+Picker Alice pick 47
+Order S Black
+Sequencer Sue ready
+Picker Bob pick 27
+Picker Alice pick 48
+Order SEL Green
+Picker Alice pick 21
+Order SE Red
+Order SE White
+Picker Dan ready
+Picker Alice pick 22
+Picker Bob pick 28
+Picker Dan pick 41
+Picker Alice to marshalling
+Picker Bob pick 33
+Picker Dan pick 42
+Picker Bob pick 34
+Sequencer Sue sequence
+Picker Dan pick 31
+Picker Bob pick 13
+Picker Alice ready
+Picker Dan pick 32
+Picker Alice pick 3
+Sequencer Sue ready
+Picker Bob pick 14
+Picker Alice pick 4
+Picker Dan pick 19
+Picker Bob pick 15
+Picker Alice pick 17
+Picker Dan pick 20
+Picker Bob pick 16
+Picker Alice pick 18
+Picker Bob to marshalling
+Picker Dan pick 3
+Picker Alice pick 47
+Sequencer Sue sequence
+Picker Bob ready
+Sequencer Sue sequence
+Picker Dan pick 4
+Sequencer Sue sequence
+Picker Dan to marshalling
+Sequencer Sue sequence
+Picker Alice pick 48
+Sequencer Sue sequence
+Picker Alice pick 21
+Sequencer Sue sequence
+Picker Dan ready
+Sequencer Sue sequence
+Picker Alice pick 22
+Sequencer Sue sequence
+Picker Alice to marshalling
+Sequencer Sue to loading
+Sequencer Sue ready

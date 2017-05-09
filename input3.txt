@@ -1,0 +1,110 @@
+Order SES Blue
+Order SE Green
+Picker Alice ready
+Order S Beige
+Order SE Red
+Picker Bob ready
+Order SEL Red
+Picker Alice pick 37
+Order SES Black
+Order SES White
+Order SE Black
+Picker Bob pick 23
+Picker Alice pick 38
+Picker Bob pick 24
+Order SEL Green
+Order SEL Green
+Picker Bob pick 45
+Sequencer Sue ready
+Picker Bob pick 46
+Picker Alice pick 27
+Order SES Beige
+Picker Bob pick 5
+Picker Alice pick 28
+Picker Bob pick 6
+Order S White
+Picker Bob pick 43
+Picker Alice pick 9
+Picker Alice pick 10
+Picker Alice pick 19
+Picker Alice pick 20
+Picker Bob pick 4
+Picker Bob put back
+Picker Bob pick 44
+Picker Alice to marshalling
+Sequencer Sue sequence
+Picker Bob to marshalling
+Sequencer Sue rescan
+Picker Alice ready
+Sequencer Sue sequence
+Picker Alice pick 31
+Sequencer Sue sequence
+Picker Alice pick 32
+Picker Alice pick 31
+Sequencer Sue sequence
+Sequencer Sue sequence
+Picker Alice pick 32
+Sequencer Sue sequence
+Picker Alice pick 13
+Sequencer Sue sequence
+Loader Bill ready
+Sequencer Sue sequence
+Sequencer Sue sequence
+Sequencer Sue to loading
+Sequencer Sue ready
+Sequencer Sue sequence
+Sequencer Sue rescan
+Sequencer Sue sequence
+Sequencer Sue rescan
+Sequencer Sue sequence
+Picker Alice pick 14
+Sequencer Sue sequence
+Picker Alice pick 1
+Sequencer Sue sequence
+Sequencer Sue sequence
+Picker Alice pick 2
+Sequencer Sue sequence
+Sequencer Sue sequence
+Sequencer Sue sequence
+Sequencer Sue sequence
+Picker Alice to marshalling
+Loader Bill scan pallets
+Loader Bill scan pallets
+Loader Bill scan pallets
+Loader Bill scan pallets
+Loader Bill scan pallets
+Sequencer Sue to loading
+Loader Bill scan pallets
+Loader Bill scan pallets
+Sequencer Sue ready
+Sequencer Sue sequence
+Loader Bill scan pallets
+Loader Bill loads
+Loader Bill ready
+Loader Bill scan pallets
+Sequencer Sue sequence
+Sequencer Sue sequence
+Loader Bill scan pallets
+Loader Bill scan pallets
+Loader Bill scan pallets
+Sequencer Sue sequence
+Loader Bill scan pallets
+Loader Bill scan pallets
+Sequencer Sue sequence
+Sequencer Sue sequence
+Loader Bill scan pallets
+Sequencer sue sequence
+Loader Bill scan pallets
+Sequencer Sue sequence
+Sequencer Sue to loading
+Loader Bill loads
+Loader Bill ready
+Loader Bill scan pallets
+Loader Bill scan pallets
+Loader Bill scan pallets
+Loader Bill scan pallets
+Loader Bill scan pallets
+Loader Bill scan pallets
+Loader Bill scan pallets
+Loader Bill scan pallets
+Loader Bill loads
